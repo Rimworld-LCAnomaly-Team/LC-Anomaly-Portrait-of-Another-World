@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <EntityCodexEntryDef>
+  	<defName>PortraitOfAnotherWorld</defName>
+    <label>Portrait Of AnotherWorld</label>
+    <description>PortraitOfAnotherWorld.</description>
+    <uiIconPath>UI/CodexEntries/PortraitOfAnotherWorld</uiIconPath>
+    <category>HE</category>
+    <discoveryType>BecameVisible</discoveryType>
+    <linkedThings>
+      
+    </linkedThings>
+    <discoveredResearchProjects>
+      <li>RevenantInvisibility</li>
+      <li>Brainwipe</li>
+    </discoveredResearchProjects>
+    <orderInCategory>850</orderInCategory>
+  </EntityCodexEntryDef>
+
+</Defs>

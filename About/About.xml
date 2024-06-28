@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LC Anomaly Portrait of Another World</name>
+	<author>DarthCY</author>
+	<description>Portrait of Another World.</description>
+	<packageId>DarthCY.LC.PortraitOfAnotherWorld</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>DarthCY.LC.AnomalyLibrary</packageId>
+			<displayName>LC Anomaly Library</displayName>
+			<downloadUrl>https://github.com/DarthCY-K/LC-Anomaly-Library/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>DarthCY.LC.AnomalyLibrary</li>
+	</loadAfter>
+</ModMetaData>
