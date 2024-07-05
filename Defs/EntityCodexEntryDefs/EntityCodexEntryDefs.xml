@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-  <EntityCodexEntryDef>
+  <LCAnomalyLibrary.Defs.EntityCodexEntryDef>
   	<defName>PortraitOfAnotherWorld</defName>
     <label>Portrait Of AnotherWorld</label>
     <description>PortraitOfAnotherWorld.</description>
@@ -16,6 +16,6 @@
       <li>Brainwipe</li>
     </discoveredResearchProjects>
     <orderInCategory>850</orderInCategory>
-  </EntityCodexEntryDef>
+  </LCAnomalyLibrary.Defs.EntityCodexEntryDef>
 
 </Defs>
