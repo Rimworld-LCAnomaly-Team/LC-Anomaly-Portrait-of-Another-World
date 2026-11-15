@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <LCAnomalyCore.Defs.AbnormalityCodexEntryDef>
+      <defName>PortraitOfAnotherWorld</defName>
+    <label>Portrait Of AnotherWorld</label>
+    <description>PortraitOfAnotherWorld.</description>
+    <uiIconPath>UI/CodexEntries/PortraitOfAnotherWorld</uiIconPath>
+    <category>HE</category>
+    <orderInCategory>850</orderInCategory>
+  </LCAnomalyCore.Defs.AbnormalityCodexEntryDef>
+
+</Defs>

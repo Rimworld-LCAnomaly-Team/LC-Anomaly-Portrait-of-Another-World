@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Portrait of Another World/1.0.0": {
+        "runtime": {
+          "Portrait of Another World.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portrait of Another World/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

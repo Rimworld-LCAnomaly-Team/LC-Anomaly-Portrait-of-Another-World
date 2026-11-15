@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\RimWorld17.props" />
+  <PropertyGroup>
+    <AssemblyName>Portrait of Another World</AssemblyName>
+    <RootNamespace>Portrait of Another World</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+
+  </ItemGroup>
+</Project>
